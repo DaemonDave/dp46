@@ -1,0 +1,17 @@
+autoscan: warning: missing AC_CHECK_HEADERS([fcntl.h]) wanted by: 
+	test.c:12
+	PanTiltImp.c:13
+	PanTilt.h:17
+autoscan: warning: missing AC_CHECK_HEADERS([termios.h]) wanted by: 
+	test.c:11
+	PanTiltImp.c:12
+autoscan: warning: missing AC_TYPE_SIZE_T wanted by: 
+	PanTiltImp.c:49
+	PanTiltImp.c:49
+	PanTiltImp.c:145
+	PanTiltImp.c:145
+	PanTiltImp.c:334
+	PanTilt.h:153
+	PanTilt.h:153
+	PanTilt.h:155
+	PanTilt.h:155
